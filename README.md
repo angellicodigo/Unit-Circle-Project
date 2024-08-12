@@ -11,5 +11,5 @@ The code produce the solutions in radians.
 Solutions: [0.26179938779914946, 1.3089969389957474, 3.403392041388943, 4.4505895925855405]
 ```
 
-And also provides a visual 
+And also provides a visual that shows the solutions in degrees on the unit circle.
 ![test](https://github.com/angellicodigo/Unit-Circle-Project/blob/main/image.png)
