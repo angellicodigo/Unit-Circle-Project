@@ -12,4 +12,5 @@ Solutions: [0.26179938779914946, 1.3089969389957474, 3.403392041388943, 4.450589
 ```
 
 And also provides a visual that shows the solutions in degrees on the unit circle.
-![test](https://github.com/angellicodigo/Unit-Circle-Project/blob/main/image.png)
+
+![Screenshot of an image produced in my code for the solutions of sin(2x)=1/2](https://github.com/angellicodigo/Unit-Circle-Project/blob/main/image.png)
