@@ -4,7 +4,7 @@ In Pre-calculus class during Covid-19, we were learning about double and half an
 Colab Link: https://colab.research.google.com/drive/1P_ijYAAJzzx7on2g5Shst9V3rckySX2z?usp=sharing<br>
 
 # For example
-## sin(2x) = 1/2
+**sin(2x) = 1/2**
 
 The code produce the solutions in radians. 
 ```
@@ -12,3 +12,4 @@ Solutions: [0.26179938779914946, 1.3089969389957474, 3.403392041388943, 4.450589
 ```
 
 And also provides a visual 
+![test]
