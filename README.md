@@ -14,5 +14,5 @@ Solutions: [0.26179938779914946, 1.3089969389957474, 3.403392041388943, 4.450589
 And also provides a visual that shows the solutions in degrees on the unit circle.
 
 <div style="text-align: center;">
-    <img src="[/path/to/image.png](https://www.python.org/python-.png](https://github.com/angellicodigo/Unit-Circle-Project/blob/main/image.png)">
+    <img src="https://github.com/angellicodigo/Unit-Circle-Project/blob/main/image.png">
 </div>
